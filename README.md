@@ -1,5 +1,8 @@
 # SentrySearch
 
+![Demo](demo.gif)
+
+
 Semantic search over video footage. Type what you're looking for, get a trimmed clip back.
 
 [OpenClaw Skill](https://clawhub.ai/ssrajadh/natural-language-video-search)
